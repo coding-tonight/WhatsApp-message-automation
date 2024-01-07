@@ -11,7 +11,7 @@ I've used the Python pywhatkit library to develop a basic WhatsApp automation. T
 ```
 
 ### How to use WhatsApp autonation
-## place your phone numbers list in the phone.txt file within same dir of the script(include country code)
+#### place your phone numbers list in the phone.txt file within same dir of the script(include country code)
 ```
   py automate.py
 ```
